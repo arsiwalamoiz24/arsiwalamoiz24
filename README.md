@@ -1,5 +1,6 @@
+<img width="1000" height="300" alt="thats me wanna be" src="https://github.com/user-attachments/assets/cea747c7-0b60-436f-a7c5-e37500f3d94e" />
+
 <div align="center">
-  
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="65"/> Moiz Arsiwala</h1>
   <p>
     CS undergrad @ K.J.Somaiya College of Engineering, Mumbai<br/>
@@ -14,6 +15,7 @@
 
 ## 🛠️ Things I Work With
 
+<div align="center">
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -21,8 +23,14 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Next.JS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+</div>
 
 ---
 
@@ -79,17 +87,18 @@
 
 ## 🌍 Find Me
 
-<p>
-  <a href="https://github.com/arsiwalamoiz24">
-    <img src="https://img.shields.io/badge/GitHub-arsiwalamoiz24-181717?style=flat-square&logo=github&logoColor=white"/>
+<p align="left">
+  <a href="https://github.com/arsiwalamoiz24" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" style="margin-right: 15px;"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/arsiwala-moiz24/">
-    <img src="https://img.shields.io/badge/LinkedIn-arsiwala--moiz24-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/arsiwala-moiz24/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60" style="margin-right: 15px;"/>
   </a>
-  &nbsp;
-  <a href="https://medium.com/@arsiwala.moiz24/">
-    <img src="https://img.shields.io/badge/Medium-@arsiwala.moiz24-12100E?style=flat-square&logo=medium&logoColor=white"/>
+  <a href="mailto:arsiwala.moiz24@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" height="60" style="margin-right: 15px;"/>
+  </a>
+   <a href="https://medium.com/@arsiwala.moiz24/" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="" height="60" style="border-radius: 12px; margin-right: 15px; vertical-align: top;"/>
   </a>
 </p>
 
