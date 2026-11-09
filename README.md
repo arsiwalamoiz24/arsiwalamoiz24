@@ -40,7 +40,6 @@
     <td width="50%" valign="top">
       <a href="https://github.com/arsiwalamoiz24/AI-code-review-agent">
         <img src="https://raw.githubusercontent.com/arsiwalamoiz24/arsiwalamoiz24/main/assets/code_review_magnific.png" width="100%" alt="AI Code Review Agent"/>
-"/>
       </a>
       <br/><br/>
       <b>🛡️ AI Code Review Agent</b><br/>
